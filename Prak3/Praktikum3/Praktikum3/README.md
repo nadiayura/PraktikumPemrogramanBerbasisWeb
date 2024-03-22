@@ -19,10 +19,10 @@
 ![$ go mod init Praktikum3](PBW3.1-GOMOD.png)
 
 ## $ Mkdir ratarata
-![$ Mkdir ratarata](PBW3.1-MKDIRrATA.png)
+![$ Mkdir ratarata](PBW3.1-CDrATA.png)
 
 ## $ CD ratarata
-![$ CD ratarata](PBW3.1-CDrATA.png)
+![$ CD ratarata](PBW3.1-MKDIRrATA.png)
 
 ## Membuat file ratarata
 ![Membuat file ratarata]( PBW3.1-FILERATA.png)
