@@ -7,7 +7,7 @@
 ---
 
 ## membuat folder baru bernama Praktikum3
-![membuat folder baru bernama Praktikum3](PBW3.1-FILEPRAK3.PNG)
+![membuat folder baru bernama Praktikum3](PBW3.1-FILEPRAK3.png)
 
 ## $ mkdir Praktikum3
 ![$ mkdir Praktikum3](PBW3.1-MKDIRPRAK3.png)
