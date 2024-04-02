@@ -16,7 +16,7 @@
 ## Tugas 02
 ![Tugas 02](P-PBW-LAT2.png)
 ### Hasil 
-![Tugas 02](P-PBW-LAT1H.png)
+![Tugas 02](P-PBW-LAT2H.png)
 
 ---
 
