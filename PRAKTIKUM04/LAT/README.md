@@ -7,17 +7,17 @@
 
 ## Tugas 01 
 ### Program
-![Tugas 01](P-PBW_LAT1.png)
+![Tugas 01](P-PBW-LAT1.png)
 ### Hasil 
-![Tugas 01](P-PBW_LAT1H.png)
+![Tugas 01](P-PBW-LAT1H.png)
 
 ---
 
 ## Tugas 02
 ###Program
-![Tugas 02](P-PBW_LAT2.png)
+![Tugas 02](P-PBW-LAT2.png)
 ### Hasil 
-![Tugas 02](P-PBW_LAT2H.png)
+![Tugas 02](P-PBW-LAT2H.png)
 
 ---
 
