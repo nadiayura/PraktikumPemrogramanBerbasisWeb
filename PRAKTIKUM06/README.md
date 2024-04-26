@@ -7,7 +7,7 @@
 
 ## Tugas 01 
 ### Screenshot
-![Tugas 01](![Screenshot 2024-04-26 162223](https://github.com/nadiayura/PraktikumPemrogramanBerbasisWeb/assets/148343033/c26f5e24-c228-4ed0-8f50-8098fd789262)
+![Screenshot 2024-04-26 162223](https://github.com/nadiayura/PraktikumPemrogramanBerbasisWeb/assets/148343033/c26f5e24-c228-4ed0-8f50-8098fd789262)
 
 ---
 
