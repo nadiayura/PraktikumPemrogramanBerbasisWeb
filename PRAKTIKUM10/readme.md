@@ -7,13 +7,14 @@
 1.	INITIATE PROJECT
  ![image](https://github.com/nadiayura/PraktikumPemrogramanBerbasisWeb/assets/148343033/b9f9bf5f-ef56-48ab-a835-ac744e9acb60)
 2.	INSTALL LIBRARY GORILLA DAN UUID
+- github.com/gorilla/mux
 
-github.com/gorilla/mux
-   mux merupakan router HTTP yang digunakan untuk routing web berbasis Go.  	
+  mux merupakan router HTTP yang digunakan untuk routing web berbasis Go.  	
 
    ![image](https://github.com/nadiayura/PraktikumPemrogramanBerbasisWeb/assets/148343033/44dc83ec-603f-4dcb-9b86-70fc76a483e7)
-   
-   github.com/google/uuid
+  
+- github.com/google/uuid
+
   uuid merupakan library yang berguna untuk menghasilkan, memparsing , serta memvalidasi UUID dalam Go.
   	
    ![image](https://github.com/nadiayura/PraktikumPemrogramanBerbasisWeb/assets/148343033/f5e70797-2bf9-4fe4-a831-967f459b4a7a)
